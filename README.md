@@ -1,1 +1,1 @@
-# game-pong
+game_pong
